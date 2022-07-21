@@ -1,0 +1,7 @@
+# Below is to be uncommented and set with your AWS Custom VPC ID:
+# aws_vpc_id: 'vpc-xxxxxxx'
+aws_vpc_id: 'vpc-07c77644b5ec1d89c'
+sec_group_name: 'lamp_web_server_sg'
+db_sec_group_name: "lamb_db_sg"
+
+
